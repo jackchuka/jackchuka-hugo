@@ -1,0 +1,23 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "June 2013 - Apr 2016",
+			"company" : "",
+			"title": "University of California, Irvine",
+			"description" : "Bachelor of Science in Computer Science"
+		},
+		{
+			"timeperiod" : "May 2012 - Apr 2017",
+			"company" : "Linkcie",
+			"title": "Full Stack Engineer",
+			"description" : "Plan and develop a website for a social market place. Created a number of websites including landing page, e-commerce, and CMS."
+		},
+		{
+			"timeperiod" : "Apr 2017 - Present",
+			"company" : "Mercari",
+			"title": "Software Developer, Project Lead",
+			"description" : "Design, develop, and maintain API for a large scale service using PHP and Go. Scrum Master & Project Lead in a mid-scale team."
+		}
+	]
+}

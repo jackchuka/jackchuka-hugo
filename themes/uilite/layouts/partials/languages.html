@@ -1,0 +1,15 @@
+{{ $languages := .Site.Data.languages }}
+
+<section id="languages" class="orange text-light">
+  <h2 class="heading">{{ $languages.title }}</h2>
+
+  {{ range $key, $value := $languages.languages }}
+
+  <div class="skill">
+    <span class="h6">{{ $key }}</span>
+    <div class="progress">
+      <div class="progress-bar bg-orange" role="progressbar" style="width: {{ $value }}%" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+    </div>
+  </div>
+  {{ end }}
+</section>

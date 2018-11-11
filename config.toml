@@ -1,0 +1,7 @@
+baseURL = "https://jackchuka.com"
+languageCode = "en-us"
+title = "jackchuka"
+theme = "uilite"
+
+[params]
+    googleAnalytics = "UA-129065227-1"
