@@ -14,10 +14,16 @@
 			"description" : "Plan and develop a website for a social market place. Created a number of websites including landing page, e-commerce, and CMS."
 		},
 		{
-			"timeperiod" : "Apr 2017 - Present",
+			"timeperiod" : "Apr 2017 - Mar 2023",
 			"company" : "Mercari",
 			"title": "Software Developer, Project Lead",
 			"description" : "Design, develop, and maintain API for a large scale service using PHP and Go. Scrum Master & Project Lead in a mid-scale team."
+		},
+		{
+			"timeperiod" : "Apr 2023 - Present",
+			"company" : "Tailor Inc.",
+			"title": "Head of Platform, Product Engineer",
+			"description" : "Lead a team of engineers to develop a platform for Headless ERP. Technology stack includes Go, gRPC, and GraphQL."
 		}
 	]
 }
